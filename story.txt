@@ -5,4 +5,5 @@ hill. When he tried to take a break in Union, the one thing flashed across his
 mind. He had a meeting on tha hill!
 
 He climbed up the hill again for the meeting, which is about cs400. He and his group member Badgers worked hard to learn to use git and linux terminal.   
-  
+
+Finally they were able to aquire all the sufficient knowledge about git and linux terminal and the Badger just couldn't wait to implement it. He decided to write a story with his fellow badgers about the tough journey that he and his fellow badgers had to endure to make sure that they could successfully learn git and the linux terminal to finish a project. Once they were done writing their story, all the badgers made sure to share their amazing story with the rest of their lecture group.  
